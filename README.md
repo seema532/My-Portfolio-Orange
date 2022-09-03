@@ -1,7 +1,7 @@
 ### 🔥 About Responsive Portfolio Website
 # 🔥 Responsive Portfolio Website Seema
 
-# Used boxicons.com to import icons for portfolio websites
+# Used boxicons.com to import icons for portfolio websites like professional
 - Responsive Portfolio Website Using HTML CSS & JavaScript
 - Smooth scrolling in each section for beautiful view.
 - Includes a dark and light mode for easy view.
